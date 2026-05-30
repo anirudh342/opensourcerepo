@@ -1,1 +1,1 @@
-echo "Welcome harness"
+echo "Welcome harness :"
